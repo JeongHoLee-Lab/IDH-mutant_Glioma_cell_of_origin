@@ -29,7 +29,7 @@ Our analysis revealed several crucial insights:
 
 - **Clonal Evolution:** Our genetic analysis showed a clear evolutionary link between these peritumoral mutant cells and the tumor cells, indicating a common ancestor.
 
-- **Cell-of-Origin:** We determined that ***glial progenitor cells (GPCs), including oligodendrocyte progenitor cells (OPCs)***, are the cell types that acquire this initial mutation.
+- **Cell-of-Origin:** We determined that ***glial progenitor cells (GPCs), including oligodendrocyte progenitor cells (OPCs)***, are the cell types that acquire this initial mutation, by analyzing cell-type specific mutation and spatial transcriptomics with mutant mRNA detection probes.
 
 - **Mouse Model Validation:** A novel mouse model, created by introducing glioma-driving mutations into OPCs, successfully reproduced key features (histological & transcriptional) of human IDH-mutant gliomas, confirming our findings.
 
