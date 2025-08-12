@@ -1,4 +1,4 @@
-# IDH-Mutant Gliomas: Cell-of-Origin Discovery.
+# IDH-Mutant Gliomas: Cell-of-Origin Discovery
 
 This repository contains the code and data used for the research paper by *Park et al.*, **"IDH-mutant gliomas arise from glial progenitor cells harboring the initial driver mutation."**
 
