@@ -7,9 +7,9 @@ Our study, published in [Journal Name], provides the first direct evidence that 
 ### Paper Link
 Title: IDH-mutant gliomas arise from glial progenitor cells harboring the initial driver mutation
 
-Journal: pending
+Journal: Science
 
-Link: pending (This section will be updated upon publication.)
+Link: https://www.science.org/doi/10.1126/science.adt0559
 
 
 
